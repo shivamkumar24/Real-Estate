@@ -7,7 +7,7 @@ import { GoVerified } from "react-icons/go";
 import millify from "millify";
 
 const Property = () => {
-  return <div>Property</div>;
+  return <div>Property Details</div>;
 };
 
 export default Property;
